@@ -1,3 +1,3 @@
-# davidindub.com 👨‍💻️📁🌐
+# Cool Bearz NFT
 
-Repo for [my simple splash page](https://www.davidindub.com).
+Repo for [Cool Bearz NFT page](https://coolbearnft.netlify.app/).
